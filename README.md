@@ -47,7 +47,7 @@ For example, if Player's sum is between 16 and 22, the state-values are higher w
 - Generated Optimal Policy (Hit: Draw a new card, Stick: Stop drawing a new card) 
 <p align="center"><img src="images/policy_plot.png" height = 65%></p>
 
-The above plots resemble the true optimal policy plots shown in the reinforcement learning [textbook](http://go.udacity.com/rl-textbook)!
+The above plots resemble the **true optimal policy plots** shown in the reinforcement learning [textbook](http://go.udacity.com/rl-textbook) as below!
 
 <img src="images/optimal_solution.png">
 
