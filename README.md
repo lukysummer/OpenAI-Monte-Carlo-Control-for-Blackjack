@@ -7,7 +7,7 @@ OpenAI's main code for how the game environment works can be found [here](https:
 
 The pseudocode for constant-α Monte Carlo Control is as follows:
 
-<p align="center"><img src="images/pseudocode.png" width = 30% height = 30%></p>
+<p align="center"><img src="images/pseudocode.png" width = 60% height = 60%></p>
 
 
 ## Repository 
@@ -45,7 +45,7 @@ Looking at the results, some observations can be made:
 For example, if Player's sum is between 16 and 22, the state-values are higher when Dealer's card ranges from 6 to 9.
 
 - Generated Optimal Policy (Hit: Draw a new card, Stick: Stop drawing a new card) 
-<img src="images/policy_plot.png">
+<p align="center"><img src="images/policy_plot.png" height = 65%></p>
 
 The above plots resemble the true optimal policy plots shown in the reinforcement learning [textbook](http://go.udacity.com/rl-textbook)!
 
